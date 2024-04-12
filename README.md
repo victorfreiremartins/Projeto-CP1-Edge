@@ -5,6 +5,7 @@ Bruno Biletsky - RM: 554739
 Eduardo Vicentini Levy - RM: 554561
 Enrico Ricarte Rodrigues - RM: 558571
 Victor Freire - RM: 556191
+Matheus Gushi - RM: 556935
 
 # Projeto Sensor de Luminosidade
 
